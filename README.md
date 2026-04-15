@@ -18,6 +18,7 @@ Frontend da plataforma **Aglaea**, uma aplicação para compartilhamento de proj
 
 ## 📁 Estrutura do projeto
 
+```
 app/										→ Páginas da aplicação (App Router)
 components/							→ Componentes reutilizáveis
 hooks/									→ Hooks auxiliares
@@ -29,6 +30,7 @@ lib/
 ├── search-context.tsx	→ Contexto de busca
 public/									→ Arquivos estáticos
 styles/									→ Estilos globais
+```
 
 ---
 
