@@ -19,17 +19,17 @@ Frontend da plataforma **Aglaea**, uma aplicação para compartilhamento de proj
 ## 📁 Estrutura do projeto
 
 ```
-app/										→ Páginas da aplicação (App Router)
+app/								→ Páginas da aplicação (App Router)
 components/							→ Componentes reutilizáveis
-hooks/									→ Hooks auxiliares
+hooks/								→ Hooks auxiliares
 lib/
 ├── graphql/						→ Queries, mutations e hooks
 ├── adapters/						→ Transformação de dados
-├── apollo-client.ts		→ Configuração do Apollo Client
-├── providers.tsx				→ Provider global
-├── search-context.tsx	→ Contexto de busca
-public/									→ Arquivos estáticos
-styles/									→ Estilos globais
+├── apollo-client.ts				→ Configuração do Apollo Client
+├── providers.tsx					→ Provider global
+├── search-context.tsx				→ Contexto de busca
+public/								→ Arquivos estáticos
+styles/								→ Estilos globais
 ```
 
 ---
